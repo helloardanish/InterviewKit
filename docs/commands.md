@@ -38,3 +38,23 @@ bundle update jekyll-sass-converter
 bundle list | grep jekyll-sass-converter
 
 ```
+
+
+```sh
+
+rm -f Gemfile.lock
+
+bundle install
+
+bundle exec jekyll build
+
+git add Gemfile Gemfile.lock .github/workflows/
+
+git commit -m "Fix Jekyll dependencies and GitHub Pages deployment"
+
+git push origin main
+
+ls -la .github/workflows/
+
+cat .github/workflows/jekyll.yml
+```
