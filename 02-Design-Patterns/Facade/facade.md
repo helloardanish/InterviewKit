@@ -3,7 +3,7 @@ title: "Facade"
 layout: default
 parent: Design Patterns
 nav_order: 4
-permalink: /02-Design-Patterns/Facade/facade/
+permalink: /design-patterns/Facade/facade/
 
 category: Structural
 section: Subsystem Simplification

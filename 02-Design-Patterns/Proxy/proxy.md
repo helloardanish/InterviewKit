@@ -3,7 +3,7 @@ title: "Proxy"
 layout: default
 parent: Design Patterns
 nav_order: 7
-permalink: /02-Design-Patterns/Proxy/proxy/
+permalink: /design-patterns/Proxy/proxy/
 
 category: Structural
 section: Access Control

@@ -3,7 +3,7 @@ title: "Builder"
 layout: default
 parent: Design Patterns
 nav_order: 2
-permalink: /02-Design-Patterns/Builder/builder/
+permalink: /design-patterns/Builder/builder/
 
 category: Creational
 section: Step-by-Step Object Construction

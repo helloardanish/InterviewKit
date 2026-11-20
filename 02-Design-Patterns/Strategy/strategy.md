@@ -3,7 +3,7 @@ title: "Strategy"
 layout: default
 parent: Design Patterns
 nav_order: 9
-permalink: /02-Design-Patterns/Strategy/strategy/
+permalink: /design-patterns/Strategy/strategy/
 
 category: Behavioral
 section: Algorithm Interchangeability

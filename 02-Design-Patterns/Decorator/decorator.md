@@ -3,7 +3,7 @@ title: "Decorator"
 layout: default
 parent: Design Patterns
 nav_order: 3
-permalink: /02-Design-Patterns/Decorator/decorator/
+permalink: /design-patterns/Decorator/decorator/
 
 category: Structural
 section: Behavior Addition

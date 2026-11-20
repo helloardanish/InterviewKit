@@ -3,7 +3,7 @@ title: "Singleton"
 layout: default
 parent: Design Patterns
 nav_order: 8
-permalink: /02-Design-Patterns/Singleton/singleton/
+permalink: /design-patterns/Singleton/singleton/
 
 category: Creational
 section: Object Creation

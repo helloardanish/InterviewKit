@@ -19,7 +19,7 @@ design patterns, general coding challenges, and real company interview questions
 | Section | What you'll find |
 |---|---|
 | [LeetCode 150](leetcode/) | Leetcode 150 problems organized by pattern with intuition + complexity + code |
-| [Design Patterns](design_patterns/) | Singleton, Factory, and more — idiomatic Java |
+| [Design Patterns](design-patterns/) | Singleton, Factory, and more — idiomatic Java |
 | [General Codes](codes/) | Scratchpad, data structures, CS fundamentals |
 
 ---
@@ -27,7 +27,7 @@ design patterns, general coding challenges, and real company interview questions
 ## 🚀 Start here
 
 1. **[Leetcode 150 →](leetcode/)** — full index of patterns and problems
-2. **[Design Patterns →](design_patterns/)** — required for LLD rounds
+2. **[Design Patterns →](design-patterns/)** — required for LLD rounds
 
 ---
 

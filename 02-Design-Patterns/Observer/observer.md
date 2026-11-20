@@ -3,7 +3,7 @@ title: "Observer"
 layout: default
 parent: Design Patterns
 nav_order: 6
-permalink: /02-Design-Patterns/Observer/observer/
+permalink: /design-patterns/Observer/observer/
 
 category: Behavioral
 section: Publish-Subscribe

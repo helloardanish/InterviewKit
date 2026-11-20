@@ -3,7 +3,7 @@ title: "Adapter"
 layout: default
 parent: Design Patterns
 nav_order: 1
-permalink: /02-Design-Patterns/Adapter/adapter/
+permalink: /design-patterns/Adapter/adapter/
 
 category: Structural
 section: Interface Conversion

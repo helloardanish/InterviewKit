@@ -3,7 +3,7 @@ title: "Factory"
 layout: default
 parent: Design Patterns
 nav_order: 5
-permalink: /02-Design-Patterns/Factory/factory/
+permalink: /design-patterns/Factory/factory/
 
 category: Creational
 section: Object Creation
