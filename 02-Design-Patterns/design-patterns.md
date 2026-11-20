@@ -14,15 +14,15 @@ Idiomatic Java implementations of commonly used software design patterns with re
 
 | Pattern | Category | Documentation |
 |---|---|---|
-| [Adapter](Adapter/adapter.md) | Structural | adapter.md |
-| [Builder](Builder/builder.md) | Creational | builder.md |
-| [Decorator](Decorator/decorator.md) | Structural | decorator.md |
-| [Facade](Facade/facade.md) | Structural | facade.md |
-| [Factory](Factory/factory.md) | Creational | factory.md |
-| [Observer](Observer/observer.md) | Behavioral | observer.md |
-| [Proxy](Proxy/proxy.md) | Structural | proxy.md |
-| [Singleton](Singleton/singleton.md) | Creational | singleton.md |
-| [Strategy](Strategy/strategy.md) | Behavioral | strategy.md |
+| [Adapter](Adapter/adapter/) | Structural | adapter/ |
+| [Builder](Builder/builder/) | Creational | builder/ |
+| [Decorator](Decorator/decorator/) | Structural | decorator/ |
+| [Facade](Facade/facade/) | Structural | facade/ |
+| [Factory](Factory/factory/) | Creational | factory/ |
+| [Observer](Observer/observer/) | Behavioral | observer/ |
+| [Proxy](Proxy/proxy/) | Structural | proxy/ |
+| [Singleton](Singleton/singleton/) | Creational | singleton/ |
+| [Strategy](Strategy/strategy/) | Behavioral | strategy/ |
 
 ---
 
@@ -32,25 +32,25 @@ Idiomatic Java implementations of commonly used software design patterns with re
 
 Patterns that deal with object creation mechanisms.
 
-- [Builder](Builder/builder.md)
-- [Factory](Factory/factory.md)
-- [Singleton](Singleton/singleton.md)
+- [Builder](Builder/builder/)
+- [Factory](Factory/factory/)
+- [Singleton](Singleton/singleton/)
 
 ### Structural
 
 Patterns that deal with object composition and interface adaptation.
 
-- [Adapter](Adapter/adapter.md)
-- [Decorator](Decorator/decorator.md)
-- [Facade](Facade/facade.md)
-- [Proxy](Proxy/proxy.md)
+- [Adapter](Adapter/adapter/)
+- [Decorator](Decorator/decorator/)
+- [Facade](Facade/facade/)
+- [Proxy](Proxy/proxy/)
 
 ### Behavioral
 
 Patterns that deal with communication and responsibility between objects.
 
-- [Observer](Observer/observer.md)
-- [Strategy](Strategy/strategy.md)
+- [Observer](Observer/observer/)
+- [Strategy](Strategy/strategy/)
 
 ---
 
