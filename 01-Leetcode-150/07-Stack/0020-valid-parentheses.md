@@ -6,19 +6,25 @@ grand_parent: Leetcode
 nav_order: 20
 permalink: /07-Stack/0020-valid-parentheses/
 
-problem: 20 - Valid Parentheses
-url: https://leetcode.com/problems/valid-parentheses/
+problem: "20 - Valid Parentheses"
+url: "https://leetcode.com/problems/valid-parentheses/"
 difficulty: Easy
-section: String / Stack
-patterns: [stack, matching-pairs]
-data_structures: [stack]
-time: O(n)
-space: O(n)
+section: "String / Stack"
+patterns:
+  - stack
+  - matching-pairs
+data_structures:
+  - stack
+time: "O(n)"
+space: "O(n)"
 solved_unaided: false
 confidence: 0
 last_reviewed:
 next_review:
-tags: [leetcode, top-interview-150, java]
+tags:
+  - leetcode
+  - top-interview-150
+  - java
 ---
 
 # 0020 — Valid Parentheses
@@ -142,7 +148,8 @@ This is optimal: every character must be examined at least once, so O(n) is the 
 |---|---|---|---|---|
 | 0 ('(') | yes | push '(' | ['('] | no |
 | 1 ('[') | yes | push '[' | ['(', '['] | no |
-| 2 (')') | no | pop top '[' ; expected '(' for ')' but top is '[' | ['('] (popped before check) | **mismatch → return false** |
+| 2 (')') | no | pop top '['; expected '(' for ')' but top is '[' | ['('] | **mismatch → return false** |
+
 
 Exit: the mismatch is detected at index 2 — the closing `)` expects the top of the stack to be `(`, but the top was `[` (pushed more recently). Final answer: `false`, matching the expected output.
 
@@ -163,7 +170,7 @@ Contrast with `s = "([])"` (valid nested case): `(` pushed, `[` pushed, `]` corr
 | String of only closing brackets (e.g. `"))"`)  | Stack is empty when a closer is encountered | `stack.isEmpty()` check catches this and returns `false` before attempting to pop |
 | String of only opening brackets (e.g. `"((("`) | No closers ever appear to pop anything | Loop completes with a non-empty stack; final `stack.isEmpty()` check returns `false` |
 | Correct types but wrong order (e.g. `"([)]"`) | Naive "does this type of bracket appear somewhere" logic would wrongly accept this | The top-of-stack check enforces strict nesting order, correctly rejecting crossed pairs |
-| Deeply nested valid brackets (e.g. `"((([[[{{{}}}]]])))"`)  | Must correctly track many levels of nesting | Stack naturally handles arbitrary depth, bounded only by string length |
+| Deeply nested valid brackets (e.g. `"((([[[&#123;&#123;&#123;&#125;&#125;&#125;]]])))"`)  | Must correctly track many levels of nesting | Stack naturally handles arbitrary depth, bounded only by string length |
 | Single bracket character (e.g. `"("` alone) | Minimal odd-length input | Caught by the odd-length check (or, without it, ends with a non-empty stack) |
 
 ## 9. Java Notes

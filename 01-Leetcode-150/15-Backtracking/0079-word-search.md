@@ -6,22 +6,28 @@ grand_parent: Leetcode
 nav_order: 79
 permalink: /15-Backtracking/0079-word-search/
 
-problem: 79 - Word Search
-url: [https://leetcode.com/problems/word-search/](https://leetcode.com/problems/word-search/)
+problem: "79 - Word Search"
+url: "https://leetcode.com/problems/word-search/"
 difficulty: Medium
-section: Backtracking / Matrix
-patterns: [backtracking, dfs-with-visited-marking]
-data_structures: [matrix]
-time: O(m * n * 3^L)
-space: O(L)
+section: "Backtracking / Matrix"
+patterns:
+  - backtracking
+  - dfs-with-visited-marking
+data_structures:
+  - matrix
+time: "O(m * n * 3^L)"
+space: "O(L)"
 solved_unaided: false
 confidence: 0
 last_reviewed:
 next_review:
-tags: [leetcode, top-interview-150, java]
+tags:
+  - leetcode
+  - top-interview-150
+  - java
 ---
 
-**# 0079 — Word Search**
+# 0079 — Word Search
 
 | Field | Value |
 |---|---|

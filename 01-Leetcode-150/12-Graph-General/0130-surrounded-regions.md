@@ -7,7 +7,7 @@ nav_order: 130
 permalink: /12-Graph-General/0130-surrounded-regions/
 
 problem: 130 - Surrounded Regions
-url: [https://leetcode.com/problems/surrounded-regions/](https://leetcode.com/problems/surrounded-regions/)
+url: https://leetcode.com/problems/surrounded-regions/
 difficulty: Medium
 section: Graph / Matrix BFS-DFS
 patterns: [multi-source-bfs, reverse-thinking, flood-fill]

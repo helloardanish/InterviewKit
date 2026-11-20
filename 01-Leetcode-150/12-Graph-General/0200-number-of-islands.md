@@ -7,7 +7,7 @@ nav_order: 200
 permalink: /12-Graph-General/0200-number-of-islands/
 
 problem: 200 - Number of Islands
-url: [https://leetcode.com/problems/number-of-islands/](https://leetcode.com/problems/number-of-islands/)
+url: https://leetcode.com/problems/number-of-islands/
 difficulty: Medium
 section: Graph / Matrix BFS-DFS
 patterns: [flood-fill, bfs, connected-components]
