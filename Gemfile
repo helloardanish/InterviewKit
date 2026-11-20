@@ -5,3 +5,14 @@ gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
 
 gem "just-the-docs", "0.12.0" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
+
+gem "logger"
+
+gem "webrick"   # needed for `jekyll serve` on Ruby 3+
+
+gem "jekyll-remote-theme"
+
+group :jekyll_plugins do
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+end
