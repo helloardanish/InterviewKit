@@ -46,6 +46,12 @@ design patterns, general coding challenges, and real company interview questions
 | 09 | [Binary Tree General](09-Binary-Tree-General/) | 14 |
 | 10 | [Binary Tree BFS](10-Binary-Tree-BFS/) | 4 |
 | 11 | [Binary Search Tree](11-Binary-Search-Tree/) | 3 |
+| 12 | [Graph General](12-Graph-General/) | 6 |
+| 13 | [Graph BFS](13-Graph-BFS/) | 3 |
+| 14 | [Trie](14-Trie/) | 3 |
+| 15 | [Backtracking](15-Backtracking/) | 7 |
+| 16 | [Divide & Conquer](16-Divide-and-Conquer/) | 4 |
+| 17 | [Kadane's Algorithm](17-Kadane-Algorithm/) | 2 |
 
 ---
 
