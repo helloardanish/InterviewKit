@@ -1,11 +1,13 @@
 title: InterviewKit
+
 description: >-
   Crack the interview, one pattern at a time. Java solutions for LeetCode,
   design patterns, and real company interview questions.
-baseurl: "/InterviewKit"
-url: "http://127.0.0.1:4000"
 
-# ── THEME ── use the gem directly, not remote_theme
+baseurl: "/InterviewKit"
+url: "https://helloardanish.github.io"
+
+# Theme
 theme: just-the-docs
 color_scheme: light
 
@@ -16,6 +18,7 @@ plugins:
 
 # Search
 search_enabled: true
+
 search:
   heading_level: 2
   previews: 3
@@ -25,21 +28,22 @@ search:
   rel_url: true
   button: false
 
-# Nav
+# Navigation
 nav_enabled: true
 nav_sort: case_insensitive
 
-# Aux links
+# Auxiliary links
 aux_links:
   "GitHub Repo":
-    - "//github.com/your-username/InterviewKit"
+    - "https://github.com/helloardanish/InterviewKit"
+
 aux_links_new_tab: true
 
 # Footer
 footer_content: >-
   InterviewKit — MIT License.
 
-# Misc
+# Miscellaneous
 heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
@@ -52,3 +56,4 @@ exclude:
   - node_modules
   - vendor
   - .bundle
+  - .github
