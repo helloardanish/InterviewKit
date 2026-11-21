@@ -44,7 +44,7 @@ This is the basic idea behind Bubble Sort.
 
 **The important idea:** Compare adjacent elements and swap them whenever they are in the wrong order.
 
-![Bubble sort](./bubble-sort.png)
+![Bubble Sort]({{ '/00-Data-Structure/13-Bubble-Sort/bubble-sort.png' | relative_url }})
 
 [Visual Representation](https://visualgo.net/en/sorting)
 

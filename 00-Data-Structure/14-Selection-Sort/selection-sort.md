@@ -48,7 +48,7 @@ This is exactly how Selection Sort works.
 
 **The important idea:** Find the smallest remaining element and put it in its correct position.
 
-![Selection sort](./selection-sort.png)
+![Selection Sort]({{ '/00-Data-Structure/14-Selection-Sort/selection-sort.png' | relative_url }})
 
 ## 2. How Does Selection Sort Work?
 

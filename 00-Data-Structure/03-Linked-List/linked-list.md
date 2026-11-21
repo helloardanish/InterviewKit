@@ -111,7 +111,7 @@ Similarly, a Singly Linked List naturally allows traversal in one direction.
 
 ## 3. Visual Representation of Singly Linked List
 
-![Singly Linked List Examples](./singly-linked-list.png)
+![Doubly Linked List]({{ '/00-Data-Structure/03-Linked-List/doubly-linked-list.png' | relative_url }})
 
 A Singly Linked List looks like this:
 
@@ -1221,7 +1221,7 @@ This is another useful example of two-way navigation.
 
 ## 13. Visual Representation of Doubly Linked List
 
-![Doubly Linked List Examples](./doubly-linked-list.png)
+![Singly Linked List]({{ '/00-Data-Structure/03-Linked-List/singly-linked-list.png' | relative_url }})
 
 A Doubly Linked List looks like this:
 

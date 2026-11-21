@@ -57,4 +57,32 @@ git push origin main
 ls -la .github/workflows/
 
 cat .github/workflows/jekyll.yml
+
+
+find . -iname "dynamic-arrays.png" \
+  -not -path "./.git/*" \
+  -not -path "./_site/*"
+
+ls -l "00-Data-Structure/Dynamic-Arrays/dynamic-arrays.png"
+
+find 00-Data-Structure -type f
+
+```
+
+#### PNG issue
+
+```sh
+find 00-Data-Structure -type f -iname "*.png" | sort
+
+
+find . -type f -iname "*.png" \
+  -not -path "./.git/*" \
+  -not -path "./_site/*" \
+  -not -path "./vendor/*" | sort
+
+
+
+find 00-Data-Structure -type f -iname "*.png" | sort | while read -r file; do
+  echo "![${file##*/}]({{ '/${file}' | relative_url }})"
+done
 ```

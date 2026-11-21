@@ -40,7 +40,7 @@ This is exactly how Linear Search works.
 
 **The important idea:** You don't skip elements. You check them one by one.
 
-![Linear Search](./linear-search.png)
+![Linear Search]({{ '/00-Data-Structure/11-Linear-Search/linear-search.png' | relative_url }})
 
 ## 2. How Does Linear Search Work?
 

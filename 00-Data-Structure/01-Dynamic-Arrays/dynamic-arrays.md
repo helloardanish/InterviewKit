@@ -88,7 +88,7 @@ This is the main idea behind a Dynamic Array.
 
 A Dynamic Array solves this problem by creating a larger internal Array and moving the existing elements into it.
 
-![Dynamic Array Examples](./dynamic-arrays.png)
+![Dynamic Array Examples]({{ '/00-Data-Structure/01-Dynamic-Arrays/dynamic-arrays.png' | relative_url }})
 
 ### Example 2: A Treasure Collector
 

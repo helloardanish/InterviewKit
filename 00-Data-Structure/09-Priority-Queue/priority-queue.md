@@ -42,7 +42,7 @@ For this example, assume:
 
 ## 2. Visual Representation
 
-![Priority Queue Hospital Example](./priority-queue.png)
+![Priority Queue]({{ '/00-Data-Structure/09-Priority-Queue/priority-queue.png' | relative_url }})
 
 ## 3. Understanding Priority Queue Operations
 

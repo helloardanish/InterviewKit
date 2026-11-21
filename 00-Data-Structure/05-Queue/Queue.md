@@ -92,7 +92,7 @@ Before writing Java code, let's understand how a Queue looks visually.
 
 ## Figure 1: Queue Data Structure – Our Illustration
 
-![Queue Data Structure](./queue.png)
+![Queue]({{ '/00-Data-Structure/05-Queue/queue.png' | relative_url }})
 
 This illustration represents how elements are arranged in a Queue.
 
@@ -107,7 +107,7 @@ When an element is removed, it is removed from FRONT.
 
 ## Figure 2: Queue Representation and Operations
 
-![Queue Representation](./Queue-Representation.png)
+![Queue Representation]({{ '/00-Data-Structure/05-Queue/Queue-Representation.png' | relative_url }})
 
 This diagram illustrates the working of Queue operations.
 
@@ -150,7 +150,7 @@ Notice that 10 was removed because it was the first element inserted.
 
 ## Figure 3: Queue Time and Space Complexity
 
-![Queue Time and Space Complexity](./Queue-Time-Space-Complexity.png)
+![Queue Time and Space Complexity]({{ '/00-Data-Structure/05-Queue/Queue-Time-Space-Complexity.png' | relative_url }})
 
 This diagram provides a quick overview of the time and space complexity of Queue operations.
 
@@ -167,7 +167,7 @@ We will understand this in detail later.
 
 ## Figure 4: Queue UML Class Diagram
 
-![Queue UML Diagram](./Queue-UML.png)
+![Queue UML]({{ '/00-Data-Structure/05-Queue/Queue-UML.png' | relative_url }})
 
 This UML diagram provides a technical representation of Queue and its operations.
 

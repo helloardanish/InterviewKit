@@ -87,7 +87,7 @@ Before writing Java code, let's understand how a Stack looks visually.
 
 ## Figure 1: Stack Data Structure – Our Illustration
 
-![Stack Data Structure](./Stack-E.png)
+![Stack Example]({{ '/00-Data-Structure/04-Stack/stack.png' | relative_url }})
 
 This illustration represents how elements are arranged in a Stack.
 

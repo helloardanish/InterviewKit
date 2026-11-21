@@ -45,7 +45,7 @@ This is the basic idea of Binary Search.
 
 **The important idea:** Each comparison helps eliminate approximately half of the remaining possibilities.
 
-![Binary Search](./binary-search.png)
+![Binary Search]({{ '/00-Data-Structure/12-Binary-Search/binary-search.png' | relative_url }})
 
 ## 2. How Does Binary Search Work?
 

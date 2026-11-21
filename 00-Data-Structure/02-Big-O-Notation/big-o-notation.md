@@ -57,7 +57,7 @@ Instead, we study how the algorithm behaves when the input becomes larger.
 
 Before learning the details, understand the common complexity classes.
 
-![Big-O Complexity Chart](./big-o-complexity-chart.png)
+![Big O Complexity Chart]({{ '/00-Data-Structure/02-Big-O-Notation/big-o-complexity-chart.png' | relative_url }})
 
 The chart compares how different complexity functions grow as the input size increases.
 
@@ -538,7 +538,7 @@ O(\log n)
 
 ## 6. Common Data Structure Operations
 
-![Common Data Structure Operations](./common-data-structure-operations.png)
+![Common Data Structure Operations]({{ '/00-Data-Structure/02-Big-O-Notation/common-data-structure-operations.png' | relative_url }})
 
 The following table provides a practical comparison of common data structures.
 
@@ -635,7 +635,8 @@ After:
 
 Different sorting algorithms use different strategies and have different time and space requirements.
 
-![Array Sorting Algorithms](./array-sorting-algorithms.png)
+![Array Sorting Algorithms]({{ '/00-Data-Structure/02-Big-O-Notation/array-sorting-algorithms.png' | relative_url }})
+
 
 ### 7.1 Sorting Complexity Table
 
