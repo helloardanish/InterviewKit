@@ -57,7 +57,7 @@ exclude:
   - vendor
   - .bundle
   - .github
-
+  - _site
 
 sass:
   quiet_deps: true
