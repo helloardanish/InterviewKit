@@ -7,7 +7,7 @@ has_children: true
 permalink: /15-Backtracking/
 ---
 
-**# Backtracking**
+# Backtracking
 
 Backtracking: recursive exploration, decision trees, constraint satisfaction, and exploring all valid combinations.
 

@@ -7,7 +7,7 @@ has_children: true
 permalink: /14-Trie/
 ---
 
-**# Trie**
+# Trie
 
 Trie (Prefix Tree): efficient prefix-based searching, word insertion, and dictionary lookup.
 

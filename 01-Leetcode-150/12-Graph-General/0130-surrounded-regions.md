@@ -21,7 +21,7 @@ next_review:
 tags: [leetcode, top-interview-150, java]
 ---
 
-**# 0130 — Surrounded Regions**
+# 0130 — Surrounded Regions
 
 | Field | Value |
 |---|---|

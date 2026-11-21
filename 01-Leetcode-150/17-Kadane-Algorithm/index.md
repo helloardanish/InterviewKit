@@ -7,7 +7,7 @@ has_children: true
 permalink: /17-Kadane-Algorithm/
 ---
 
-**# Kadane Algorithm**
+# Kadane Algorithm
 
 Kadane's Algorithm: find the maximum sum of a contiguous subarray using a greedy approach with dynamic programming.
 

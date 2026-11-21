@@ -7,7 +7,7 @@ has_children: true
 permalink: /16-Divide-and-Conquer/
 ---
 
-**# Divide and Conquer**
+# Divide and Conquer
 
 Divide and Conquer: break problems into smaller subproblems, solve recursively, and combine their results.
 

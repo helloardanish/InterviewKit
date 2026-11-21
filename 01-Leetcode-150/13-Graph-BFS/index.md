@@ -7,7 +7,7 @@ has_children: true
 permalink: /13-Graph-BFS/
 ---
 
-**# Graph BFS**
+# Graph BFS
 
 Breadth-First Search: level-order traversal, shortest paths in unweighted graphs, and state-space exploration.
 

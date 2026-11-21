@@ -21,7 +21,7 @@ next_review:
 tags: [leetcode, top-interview-150, java]
 ---
 
-**# 0200 — Number of Islands**
+# 0200 — Number of Islands
 
 | Field | Value |
 |---|---|

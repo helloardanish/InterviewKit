@@ -21,7 +21,7 @@ next_review:
 tags: [leetcode, top-interview-150, java]
 ---
 
-**# 0148 — Sort List**
+# 0148 — Sort List
 
 | Field | Value |
 |---|---|

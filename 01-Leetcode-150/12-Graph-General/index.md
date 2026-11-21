@@ -7,7 +7,7 @@ has_children: true
 permalink: /12-Graph-General/
 ---
 
-**# Graph General**
+# Graph General
 
 Graph fundamentals: graph traversal, connected components, cycle detection, topological sorting, and graph evaluation.
 
